@@ -1,6 +1,6 @@
 '''
 Title: utils.email 
-Author: Payas Parab (NinePointTwo Capital LLC)
+Author: Payas Parab (www.payasparab.com)
 Description: Utils related to automated emails/reporting
 
 Key Methods:
